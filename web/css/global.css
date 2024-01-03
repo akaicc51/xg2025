@@ -1,0 +1,100 @@
+
+body {
+    color: hsla(240, 13%, 6%, 0.644);
+    background-image:url('../img/logo_blue.png');
+    background-repeat: repeat;
+    background-size: cover;
+    align-items: center;
+}   
+
+
+  .logo{
+      float: left;
+  }
+
+  .logodownload{
+    /*float: left;*/
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.logoall{
+    /*float: left;*/
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+  
+  .navbutton {
+      float: right; 
+      text-align: center; 
+      text-decoration: none; 
+      display: block; 
+      padding: 25px 25px;
+  }
+
+  
+  .container{
+      max-width: 1200px;
+      margin:auto;
+      text-align: center; 
+      align-items: center;
+
+  }
+
+  
+  .header{
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(9px);
+      font-weight: bold;
+      
+
+  }
+
+
+.html body textarea, html body input[type=text], html body input[type=password], html body input[type=number] {
+    padding: 10px;
+    width: 350px;
+    background: #c00a0a00;
+    color: #eeeeee;
+    border: 1px solid rgb(174, 0, 255);
+    margin:13px auto;/*sirve para separar frames completos xd*/
+
+
+
+    box-sizing: border-box;
+}
+html body .btn {
+    font-weight: bold;
+}
+.btn-primary-login-acess {
+    color: #07f039;
+    background-color: #0128610e;
+    border: 1px solid rgb(150, 7, 216);
+}
+.btn-primary  {
+    color: #fff;
+    background-color: #0128610e;
+    border: 1px solid rgb(174, 0, 255);
+    width: 500px;
+    height: 50px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+
+}
+
+.front-sections .cta-button a {
+    padding: 9px;
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 10px auto;
+    width: 50px;
+    height: 70px;
+
+}

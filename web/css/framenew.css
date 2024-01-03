@@ -1,0 +1,139 @@
+section {
+}
+.framesection {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(5px);
+    width: 40%;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+
+.sectionframelock {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(9px);
+    width: 40%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+
+.sectionframelogin {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(9px);
+    width: 40%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+
+.sectionframeyoutuve {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(9px);
+    width: 40%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+
+.sectionframesupportc {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(5px);
+    width: 40%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+
+.sectionframe {
+    background: transparent;
+    /*backdrop-filter: Blur(10px); optional*/ 
+    backdrop-filter: Blur(9px);
+    width: 40%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin:25px auto;/*sirve para separar frames completos xd*/
+    text-align: center;
+    list-style-type:none;
+    overflow: auto;
+
+}
+.textframe{
+    text-align: center;
+}
+/* frames de descarga de clientes alts*/
+.imgs{
+    background: transparent;
+    backdrop-filter: Blur(2px);
+    border:  1px solid rgba(137, 6, 224, 0.863);
+    max-width: 1200px;
+    width: 40%;
+    min-width: auto;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 23px auto;
+    overflow: auto;
+}

@@ -1,0 +1,39 @@
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    scroll-behavior: smooth;
+    background-color: rgba(10, 11, 12, 0);
+
+}
+#top {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    max-width: 100%;
+    height: 20%;
+}
+.navbar {
+    background-color: #79c1ff !important;
+}
+@keyframes rainbow {
+    0% { color: #ffffff; }
+    14% { color: #ff00c9; }
+    28% { color: #bf00ff; }
+    42% { color: #0088ff; }
+    56% { color: #00ff5e; }
+    70% { color: #ffbb00; }
+    84% { color: #ff0000; }
+    100% { color: #ffffff; }
+}
+#img {
+    width: 100%;
+    background-image: url("../img/background.png");
+    height: 2600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: lightslategrey;
+    animation: rainbow 10s infinite;
+    animation-direction: alternate;
+}
+

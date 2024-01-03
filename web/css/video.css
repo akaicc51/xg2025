@@ -1,0 +1,15 @@
+        /* Video css  */
+        #myVideo {
+            position:fixed;
+            bottom: 0px;
+            right: 0px;
+            min-width: 100%;
+            width: none;
+            z-index: -1000;
+            scale: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            image-resolution: auto;
+        }
+        
